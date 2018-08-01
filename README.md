@@ -3,6 +3,9 @@ Dearest earthicans, this is a script written in your species programming languag
 It asks you to pick a number between 1 and 63. Then it will guess it.
 Yes, It is impressive.
 
+# Requirements:
+- Python 2.7 (Python 3: Untested)
+
 # To run it: 
 - Clone it to someplace you know.
 - Run a terminal and enter: python test-script.py 
