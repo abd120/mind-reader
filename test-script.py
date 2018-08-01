@@ -73,7 +73,8 @@ os.system('clear')
 
 print("Allow me to blow your socks off!")
 sleep(2)
-print ("The number you chose is:" + str(sum(arr)))
+print ("The number you chose is:")
+print sum(arr)
 sleep(2)
 print("Yes I know, It's very impressive. Well, that's how I roll.")
 
