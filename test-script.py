@@ -2,9 +2,9 @@ import os
 from time import sleep
 
 print("Hello human. Today, I'll be reading your mind.")
-sleep(5)
+sleep(2)
 print("Choose a number between 1 and 63. I'll wait.")
-sleep(5)
+sleep(2)
 os.system('clear')
 
 print("I will show you six sets of numbers.")
