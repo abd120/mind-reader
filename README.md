@@ -8,5 +8,5 @@ Yes, It is impressive.
 
 # To run it: 
 - Clone it to someplace you know.
-- Run a terminal and enter: python test-script.py 
+- Run a terminal and enter after you cd into the directory: python test-script.py 
 - Be amazed.
