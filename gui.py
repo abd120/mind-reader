@@ -7,7 +7,7 @@ root = Tk()
 #This line adds a title in the title bar of our window.
 root.title("MindReader")
 #Add an icon to the titlebar
-root.iconbitmap(r'C:\Users\Abdulrahman\Desktop\mind-reader\tkinter\icon.ico')
+root.iconbitmap(r'\mind-reader\icon.ico')
 
 #An empty array to store the magical parasites.
 arr = []
