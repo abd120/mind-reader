@@ -1,6 +1,6 @@
 # Human Mind Reader.
 Dearest earthicans, this is a script written in your species programming language known as Python.
-It asks you to pick a number between 1 and 63. Then it will guess it.
+It asks you to pick a number between 1 and 63. It uses a simple trick based on the numbers in each set.
 Yes, It is impressive.
 
 
